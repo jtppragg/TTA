@@ -1,2 +1,2 @@
-# TTA
-Repositorio de partida para las apps de TTA
+# Poner el nombre de tu app
+Breve descripción de la app
