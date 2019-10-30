@@ -1,6 +1,15 @@
-# Poner el nombre de la app
+# Nombre de la app
 
-Alumno: Nombre y apellidos
-Alumno: Nombre y apellidos (en caso de pareja)
+**Asignatura**: Tecnologías Telemáticas Avanzadas, 2º Máster en Ingeniería de Telecomunicación (UPV/EHU)
 
-Breve descripción de la app
+**Curso**: 2019/2020
+
+**Práctica**: Aplicación Android Nativa
+
+**Alumno**: Nombre y apellidos
+
+**Alumno**: Nombre y apellidos (en caso de app en grupo)
+
+## Descripción
+
+Breve descripción de la app ...
